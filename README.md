@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Django, Js.**
 
-- 📫 How to reach me **vedurrcks21@gmail.com**
+- 📫 How to reach me **vedantmodi21@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
