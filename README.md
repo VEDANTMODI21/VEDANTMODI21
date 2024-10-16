@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm VEDANT MODI</h1>
 <h3 align="center">
-    🚀 <strong>Currently engaged in</strong>:  
+    🚀 Currently engaged in>:  
     Web Development | Data Science | Java  
     Striving for excellence in each endeavor.
 
-    🤝 <strong>Open to collaboration on impactful open-source projects</strong>:  
+    🤝 Open to collaboration on impactful open-source projects:  
     I believe collective efforts lead to remarkable results. I’m particularly interested in projects that promote sustainability, education, or community well-being.
 
-    📊 <strong>Enhancing skills in Data Analysis</strong>:  
+    📊 Enhancing skills in Data Analysis:  
     Currently working on Python-based data analysis, aiming for precision and proficiency in delivering data-driven insights. My goal is to leverage data to uncover meaningful patterns and contribute to informed decision-making.
 
-    💬 <strong>Beyond coding</strong>:  
+    💬 Beyond coding:  
     I’m passionate about gardening and exploring diverse natural landscapes. I also enjoy discussing tech trends and actively contribute to knowledge-sharing communities.
 </h3>
 
