@@ -86,15 +86,13 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="margin-right: 15px; padding: 5px; background-color: #dedede;" />
     </a>
 </p>
-<!-- Most Used Languages - Custom Theme -->
-<!-- Most Used Languages - Custom Theme -->
 ## 🚀 GitHub Stats & Activity
 
 <div align="center">
-    
+  
   <!-- 🌌 Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=15" alt="Most Used Languages" height="180px"/>
-  
+
   <!-- ✨ GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en&theme=radical&border_radius=15&hide_border=false" alt="GitHub Stats" height="180px"/>
 
@@ -102,5 +100,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&theme=radical&border_radius=15" alt="Streak Stats" height="180px"/>
 
 </div>
-
-
