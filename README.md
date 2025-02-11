@@ -87,8 +87,8 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact" alt="vedantmodi21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact" alt="vedantmodi21" <background-color: #0000FF> /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en" alt="vedantmodi21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en" alt="vedantmodi21" <background-color: #0000FF> /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&" alt="vedantmodi21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&" alt="vedantmodi21" <background-color: #0000FF> /></p>
