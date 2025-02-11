@@ -15,6 +15,16 @@
     I’m passionate about gardening and exploring diverse natural landscapes. I also enjoy discussing tech trends and actively contribute to knowledge-sharing communities.
 </h3>
 
+### 🏆 GitHub Achievements  
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vedantmodi21&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+
+  <br>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=vedantmodi21&label=Profile%20Views&color=ff69b4&style=flat)
+
+</div>
 
 🏆 GitHub Trophies 
 <div align="center">
