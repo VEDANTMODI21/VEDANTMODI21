@@ -86,18 +86,17 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="margin-right: 15px; padding: 5px; background-color: #dedede;" />
     </a>
 </p>
-
-<!-- Top Languages - Purple Theme -->
+<!-- Most Used Languages - Custom Theme -->
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact&theme=purple" alt="vedantmodi21" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vedantmodi21" />
 </p>
 
-<!-- GitHub Stats - Radical Theme (Purple-Pink) -->
+<!-- GitHub Stats - Dark Purple Theme -->
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en&theme=radical" alt="vedantmodi21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en&theme=vision-friendly-dark" alt="vedantmodi21" />
 </p>
 
-<!-- Streak Stats - High Contrast Theme -->
+<!-- Streak Stats - Neon Purple Theme -->
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&theme=highcontrast" alt="vedantmodi21" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&theme=dracula" alt="vedantmodi21" />
 </p>
