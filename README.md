@@ -86,7 +86,7 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="margin-right: 15px; padding: 5px; background-color: #dedede;" />
     </a>
 </p>
-## 🚀 GitHub Stats & Activity
+🚀 GitHub Stats & Activity
 
 <div align="center">
   
