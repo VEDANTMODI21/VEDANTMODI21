@@ -88,17 +88,19 @@
 </p>
 <!-- Most Used Languages - Custom Theme -->
 <!-- Most Used Languages - Custom Theme -->
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vedantmodi21" />
-</p>
+## 🚀 GitHub Stats & Activity
 
-<!-- GitHub Stats - Dark Purple Theme -->
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en&theme=vision-friendly-dark" alt="vedantmodi21" />
-</p>
+<div align="center">
+    
+  <!-- 🌌 Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=15" alt="Most Used Languages" height="180px"/>
+  
+  <!-- ✨ GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en&theme=radical&border_radius=15&hide_border=false" alt="GitHub Stats" height="180px"/>
 
-<!-- Streak Stats - Neon Purple Theme -->
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&theme=dracula" alt="vedantmodi21" />
-</p>
+  <!-- 🔥 Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&theme=radical&border_radius=15" alt="Streak Stats" height="180px"/>
+
+</div>
+
 
