@@ -87,8 +87,23 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact" alt="vedantmodi21" <background-color: #0000FF> /></p>
+<!-- Top Languages -->
+<div style="background-color: #9b59b6; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
+    <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantmodi21&show_icons=true&locale=en&layout=compact" alt="vedantmodi21" />
+    </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en" alt="vedantmodi21" <background-color: #0000FF> /></p>
+<!-- GitHub Stats -->
+<div style="background-color: #8e44ad; padding: 10px; border-radius: 10px; margin-bottom: 10px;">
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmodi21&show_icons=true&locale=en" alt="vedantmodi21" />
+    </p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&" alt="vedantmodi21" <background-color: #0000FF> /></p>
+<!-- Streak Stats -->
+<div style="background-color: #6c3483; padding: 10px; border-radius: 10px;">
+    <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantmodi21&" alt="vedantmodi21" />
+    </p>
+</div>
