@@ -24,6 +24,13 @@
         <img src="https://github-profile-trophy.vercel.app/?username=vedantmodi21" alt="vedantmodi21" />
     </a>
 </p>
+### 🏆 GitHub Trophies
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vedantmodi21&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
 
 - 🌱 I’m currently learning **Django, Js.**
 
