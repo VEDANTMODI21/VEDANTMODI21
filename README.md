@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VEDANT MODI</h1>
-<h3 align="center">
+<h3 align="center"> 
     
     🚀 Currently engaged in:  
     Web Development | Data Science | Java  
