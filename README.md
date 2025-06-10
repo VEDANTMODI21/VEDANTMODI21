@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vedant Modi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Data+Science+Enthusiast;React+Developer;Building+Accessible+Solutions;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi I am Vedant Modi;Data+Science+Enthusiast;React+Developer;Building+Accessible+Solutions;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -124,9 +124,6 @@ Building inclusive websites and applications specifically designed to assist peo
 ### 📊 Data Science Projects
 Exploring data analysis, visualization, and machine learning projects to derive meaningful insights from complex datasets.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-project-name&theme=tokyonight" alt="Featured Project" />
-</div>
 
 ## 🌐 Connect With Me
 
