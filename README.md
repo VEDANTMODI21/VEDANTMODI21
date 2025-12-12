@@ -123,7 +123,7 @@ Using Python, ML libraries, and visualizations to extract insights and build pre
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://vedantmodi21.github.io/vedantmodi/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://vedantmodi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vedant-modi-b99b0628a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/VEDANTMODI21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:vedantmodi2101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
