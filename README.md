@@ -141,7 +141,7 @@ Using Python, ML libraries, and visualizations to extract insights and build pre
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VEDANTMODI21/VEDANTMODI21/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <div align="center">
