@@ -139,9 +139,11 @@ Using Python, ML libraries, and visualizations to extract insights and build pre
 - ☕ Fueled by coffee and curiosity  
 
 ---
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VEDANTMODI21/VEDANTMODI21/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/VEDANTMODI21/VEDANTMODI21/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
 </div>
 
 <div align="center">
